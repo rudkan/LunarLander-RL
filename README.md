@@ -74,7 +74,6 @@ Both algorithms achieved positive episodic returns, demonstrating their ability 
 ├── Reinforce.py         # REINFORCE algorithm implementation
 ├── Experiment.py        # Experimental setup and execution scripts
 ├── Helper.py            # Utility functions for training and evaluation
-├── RL_A3_Report.pdf     # Detailed project report
 ├── README.md            # Project documentation
 
 ```
